@@ -3,7 +3,12 @@ guid: 0a85834632963af4cbe1eed85fcd639e
 ModelImporter:
   serializedVersion: 21300
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Encendedor01
+    second: {fileID: 2100000, guid: 2127ac0e467dec6419492c34a764a4ba, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
